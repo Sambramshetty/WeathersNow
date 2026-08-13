@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213160916664",
+    "project_id": "skycast-aaac5",
+    "storage_bucket": "skycast-aaac5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213160916664:android:d076779fd3e0d4fd7ce64d",
+        "android_client_info": {
+          "package_name": "com.sambram.skycast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG1CiUFfoYK-qa7cHduCXrRzQWTzeGnIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
